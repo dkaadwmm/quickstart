@@ -7,7 +7,7 @@ import {HeroDetailComponent} from "./hero-detail.component";
 import {HeroesComponent} from "./heroes.component";
 import {HeroService} from "./hero.service";
 import {RouterModule} from '@angular/router';
-import {Dashboard, DashboardComponent} from './dashboard.component';
+import {DashboardComponent} from './dashboard.component';
 
 @NgModule({
   imports:      [
