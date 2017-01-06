@@ -4,6 +4,8 @@ import {Component} from "@angular/core";
  */
 
 @Component ({
+  moduleId: module.id,
+  styleUrls: ['app.component.css'],
   selector : 'my-app',
   template : `
     <h1>{{title}}</h1>
